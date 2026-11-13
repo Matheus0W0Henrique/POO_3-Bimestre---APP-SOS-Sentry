@@ -1,0 +1,10 @@
+Auto Avalização do Matheus
+
+Esse ano eu aprendi que da pra fazer 1 codigo ter varias partes e pastas diferentes(Orientado a Objeto), 
+utilizei muito classes, agregações, associações e compreendi melhor conceitos basicos de python que no primeiro ano eu nao sabia ultilizar bem, por exemplo usar loop com FOR e mexi muito com listas.
+
+Melhorei bastante no python basico, localizar erros, imaginar um codigo de cabeça e resolver soluções(mesmo que não fosse da melhor maneira possivel)
+
+
+Para o ano de 2027 é me aprofundar mais na programação e principalmente aprender uma nova linguagem de programação(Java Scrip e talvez JAVA), 
+continuar aprendendo mais e mais além de ficar melhor nos conceitos que se tratam da materia de Modelagem de Sistemas
